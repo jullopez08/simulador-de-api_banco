@@ -6,4 +6,4 @@ El sistema incluye autenticación a través de un login seguro, además de la po
 
 Hemos creado esta solución pensando en la simplicidad y funcionalidad, ideal para aquellos que desean explorar o expandir sus conocimientos en la integración de sistemas bancarios.
 
-# Puedes entrar a la web y explolar un poco --->>
+# Puedes entrar a la web y explorar un poco --->>
